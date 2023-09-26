@@ -21,6 +21,21 @@
 ]]></content>
   </entry>
   <entry>
+    <title>test0</title>
+    <url>/2023/09/26/test0/test0/</url>
+    <content><![CDATA[<h1 id="This-is-a-test-blog"><a href="#This-is-a-test-blog" class="headerlink" title="This is a test blog."></a>This is a test blog.</h1><h3 id="这是一个测试blog。"><a href="#这是一个测试blog。" class="headerlink" title="这是一个测试blog。"></a>这是一个测试blog。</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">这是一个代码块</span><br></pre></td></tr></table></figure>
+
+<p><a href="https://www.4399.com/">这是一个超链接</a></p>
+<img src="/2023/09/26/test0/test0/1.jpg" class title="4ever">
+
+
+
+]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>毕设</title>
     <url>/2023/09/26/%E6%AF%95%E8%AE%BE/</url>
     <content><![CDATA[<h3 id="一、毕业设计（论文）的目的"><a href="#一、毕业设计（论文）的目的" class="headerlink" title="一、毕业设计（论文）的目的"></a>一、毕业设计（论文）的目的</h3><p>​       高职教育的培养目标决定高职教育的教学过程中各个环节必须具备鲜明的特色。计算机网络技术专业毕业设计是学生培养过程中十分重要的环节，学生既要在毕业设计期间综合利用整个三年学习期间所学的知识，锻炼和培养对知识的综合能力。同时，毕业设计也是学生即将完成学业的最后一个环节，是培养独立工作能力的重要环节，在学生由学校走上社会的关键时刻起到承前启后的作用，也是检验学生掌握知识的程度、分析问题和解决问题基本能力的一份综合答卷。通过毕业设计、毕业答辩，来考核教学质量，对深化教学改革，提高人才培养工作水平具有重要的指导意义。</p>
@@ -66,21 +81,6 @@
       </categories>
       <tags>
         <tag>毕设</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>test0</title>
-    <url>/2023/09/26/test0/test0/</url>
-    <content><![CDATA[<h1 id="This-is-a-test-blog"><a href="#This-is-a-test-blog" class="headerlink" title="This is a test blog."></a>This is a test blog.</h1><h3 id="这是一个测试blog。"><a href="#这是一个测试blog。" class="headerlink" title="这是一个测试blog。"></a>这是一个测试blog。</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">这是一个代码块</span><br></pre></td></tr></table></figure>
-
-<p><a href="https://www.4399.com/">这是一个超链接</a></p>
-<img src="/2023/09/26/test0/test0/1.jpg" class title="4ever">
-
-
-
-]]></content>
-      <tags>
-        <tag>test</tag>
       </tags>
   </entry>
 </search>
