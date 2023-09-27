@@ -1,24 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>锐评</title>
-    <url>/2023/09/27/%E9%94%90%E8%AF%84/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><p>某非知名行业内专家
-  <span class="spoiler" onclick="this.classList.toggle('spoiler')">
-    <span class="spoiler-blur ">华</span>
-  </span>对此站提出犀利而准确的锐评：</p>
-<img src="/2023/09/27/%E9%94%90%E8%AF%84/%E4%B8%93%E5%AE%B6%E8%AF%84%E4%BB%B7.jpeg" class>]]></content>
+    <title>Hello World</title>
+    <url>/2023/09/25/hello-world/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+<h2 id="Quick-Start">Quick Start</h2>
+<h3 id="Create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>test2</title>
+    <url>/2023/09/27/test2/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><h3 id="这又是个测试blog">这又是个测试blog</h3>
+<div class="tabs" id="fourth-unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#fourth-unique-name-1">Solution 1</a></li><li class="tab"><a href="#fourth-unique-name-2">Solution 2</a></li><li class="tab"><a href="#fourth-unique-name-3">Solution 3</a></li></ul><div class="tab-content"><div class="tab-pane active" id="fourth-unique-name-1"><p><strong>This is Tab 1.</strong></p></div><div class="tab-pane" id="fourth-unique-name-2"><p><strong>This is Tab 2.</strong></p></div><div class="tab-pane" id="fourth-unique-name-3"><p><strong>This is Tab 3.</strong></p></div></div></div>]]></content>
       <categories>
-        <category>评价收集</category>
+        <category>测试blog</category>
       </categories>
       <tags>
-        <tag>专家指导</tag>
+        <tag>test</tag>
       </tags>
   </entry>
   <entry>
     <title>更新日志</title>
     <url>/2023/09/27/update-log/</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><h6 id="为了后面毕业论文有得写，还是写个更新日志吧。">为了后面毕业论文有得写，还是写个更新日志吧。</h6>
+<h4 id="09-28-2023-1-1-2更新日志">09.28.2023  1.1.2更新日志</h4>
+<p>1.启用了代码压缩，<span class="hint--info hint--rounded hint--top" data-hint="maybe" ontouchstart>加快了</span>网页加载速度</p>
+<span id="more"></span>
 <h4 id="09-27-2023-1-1-1更新日志">09.27.2023  1.1.1更新日志</h4>
 <p>1.添加了文章置顶功能</p>
 <p>2.添加了文章加密与隐藏功能</p>
@@ -28,7 +48,6 @@
   </span>效果与<span class="hint--info hint--rounded hint--top" data-hint="like this :)" ontouchstart>悬浮注释</span></p>
 <p>4.添加了分栏</p>
 <p>5.更换了默认 Markdown 渲染器为 hexo-renderer-markdown-it</p>
-<span id="more"></span>
 <h4 id="09-26-2023-1-1更新日志：">09.26.2023  1.1更新日志：</h4>
 <p>1.主题更改为Next</p>
 <p>2.添加了本地搜索功能</p>
@@ -43,15 +62,18 @@
       </tags>
   </entry>
   <entry>
-    <title>test2</title>
-    <url>/2023/09/27/test2/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><h3 id="这又是个测试blog">这又是个测试blog</h3>
-<div class="tabs" id="fourth-unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#fourth-unique-name-1">Solution 1</a></li><li class="tab"><a href="#fourth-unique-name-2">Solution 2</a></li><li class="tab"><a href="#fourth-unique-name-3">Solution 3</a></li></ul><div class="tab-content"><div class="tab-pane active" id="fourth-unique-name-1"><p><strong>This is Tab 1.</strong></p></div><div class="tab-pane" id="fourth-unique-name-2"><p><strong>This is Tab 2.</strong></p></div><div class="tab-pane" id="fourth-unique-name-3"><p><strong>This is Tab 3.</strong></p></div></div></div>]]></content>
+    <title>锐评</title>
+    <url>/2023/09/27/%E9%94%90%E8%AF%84/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><p>某非知名行业内专家
+  <span class="spoiler" onclick="this.classList.toggle('spoiler')">
+    <span class="spoiler-blur ">华</span>
+  </span>对此站提出犀利而准确的锐评：</p>
+<img src="/2023/09/27/%E9%94%90%E8%AF%84/%E4%B8%93%E5%AE%B6%E8%AF%84%E4%BB%B7.jpeg" class>]]></content>
       <categories>
-        <category>测试blog</category>
+        <category>评价收集</category>
       </categories>
       <tags>
-        <tag>test</tag>
+        <tag>专家指导</tag>
       </tags>
   </entry>
   <entry>
@@ -141,25 +163,5 @@
       <tags>
         <tag>test</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2023/09/25/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-<h2 id="Quick-Start">Quick Start</h2>
-<h3 id="Create-a-new-post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
   </entry>
 </search>
