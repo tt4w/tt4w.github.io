@@ -16,6 +16,32 @@
       </tags>
   </entry>
   <entry>
+    <title>更新日志</title>
+    <url>/2023/09/27/update-log/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><h6 id="为了后面毕业论文有得写，还是写个更新日志吧。">为了后面毕业论文有得写，还是写个更新日志吧。</h6>
+<h4 id="09-27-2023-1-1-1更新日志">09.27.2023  1.1.1更新日志</h4>
+<p>1.添加了文章置顶功能</p>
+<p>2.添加了文章加密与隐藏功能</p>
+<p>3.添加了文字
+  <span class="spoiler" onclick="this.classList.toggle('spoiler')">
+    <span class="spoiler-blur ">遮盖</span>
+  </span>效果与<span class="hint--info hint--rounded hint--top" data-hint="like this :)" ontouchstart>悬浮注释</span></p>
+<p>4.添加了分栏</p>
+<p>5.更换了默认 Markdown 渲染器为 hexo-renderer-markdown-it</p>
+<h4 id="09-26-2023-1-1更新日志：">09.26.2023  1.1更新日志：</h4>
+<p>1.主题更改为Next</p>
+<p>2.添加了本地搜索功能</p>
+<p>3.添加文章字数统计与阅读时间估计功能</p>
+<p>4.添加了文章边框阴影</p>
+<h4 id="09-25-2023-1-0更新日志：">09.25.2023  1.0更新日志：</h4>
+<p>初版上线,这时候大概长这样：</p>
+<img src="/2023/09/27/update-log/1.0.png" class title="1.0">
+]]></content>
+      <tags>
+        <tag>更新日志</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>test2</title>
     <url>/2023/09/27/test2/</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><h3 id="这又是个测试blog">这又是个测试blog</h3>
