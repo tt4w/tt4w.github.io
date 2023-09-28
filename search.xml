@@ -21,6 +21,8 @@
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><h6 id="为了后面毕业论文有得写，还是写个更新日志吧。">为了后面毕业论文有得写，还是写个更新日志吧。</h6>
 <h4 id="09-28-2023-1-1-2更新日志">09.28.2023  1.1.2更新日志</h4>
 <p>1.启用了代码压缩，<span class="hint--info hint--rounded hint--top" data-hint="maybe" ontouchstart>加快了</span>网页元素加载速度</p>
+<p>2.修改了顶栏背景图片</p>
+<p>3.背景颜色由 #FFFFFF 改为了 <span class="hint--info hint--rounded hint--top" data-hint="稍微灰那么一点" ontouchstart>#F5F5F5</span></p>
 <span id="more"></span>
 <h4 id="09-27-2023-1-1-1更新日志">09.27.2023  1.1.1更新日志</h4>
 <p>1.添加了文章置顶功能</p>
