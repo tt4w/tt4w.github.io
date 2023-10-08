@@ -35,26 +35,28 @@
   <entry>
     <title>更新日志</title>
     <url>/2023/09/27/update-log/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><h6 id="为了后面毕业论文有得写，还是写个更新日志吧。">为了后面毕业论文有得写，还是写个更新日志吧。</h6>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><p><em>#为了后面毕业论文有得写，还是写个更新日志吧。</em></p>
+<h4 id="10-09-2023-1-2-0更新日志">10.09.2023 1.2.0更新日志</h4>
+<p>1.添加了基于 LiveRe 的评论系统;</p>
 <h4 id="09-28-2023-1-1-2更新日志">09.28.2023  1.1.2更新日志</h4>
-<p>1.启用了代码压缩，<span class="hint--info hint--rounded hint--top" data-hint="maybe" ontouchstart>加快了</span>网页元素加载速度</p>
-<p>2.修改了顶栏背景图片</p>
-<p>3.背景颜色由 #FFFFFF 改为了 <span class="hint--info hint--rounded hint--top" data-hint="稍微灰那么一点" ontouchstart>#F5F5F5</span></p>
+<p>1.启用了代码压缩，<span class="hint--info hint--rounded hint--top" data-hint="maybe" ontouchstart>加快了</span>网页元素加载速度;</p>
+<p>2.修改了顶栏背景图片;</p>
+<p>3.背景颜色由 #FFFFFF 改为了 <span class="hint--info hint--rounded hint--top" data-hint="稍微灰那么一点" ontouchstart>#F5F5F5</span>;</p>
 <span id="more"></span>
 <h4 id="09-27-2023-1-1-1更新日志">09.27.2023  1.1.1更新日志</h4>
-<p>1.添加了文章置顶功能</p>
-<p>2.添加了文章加密与隐藏功能</p>
+<p>1.添加了文章置顶功能;</p>
+<p>2.添加了文章加密与隐藏功能;</p>
 <p>3.添加了文字
   <span class="spoiler" onclick="this.classList.toggle('spoiler')">
     <span class="spoiler-blur ">遮盖</span>
-  </span>效果与<span class="hint--info hint--rounded hint--top" data-hint="like this :)" ontouchstart>悬浮注释</span></p>
-<p>4.添加了分栏</p>
-<p>5.更换了默认 Markdown 渲染器为 hexo-renderer-markdown-it</p>
+  </span>效果与<span class="hint--info hint--rounded hint--top" data-hint="like this :)" ontouchstart>悬浮注释</span>;</p>
+<p>4.添加了分栏;</p>
+<p>5.更换了默认 Markdown 渲染器为 hexo-renderer-markdown-it;</p>
 <h4 id="09-26-2023-1-1更新日志：">09.26.2023  1.1更新日志：</h4>
-<p>1.主题更改为Next</p>
-<p>2.添加了本地搜索功能</p>
-<p>3.添加文章字数统计与阅读时间估计功能</p>
-<p>4.添加了文章边框阴影</p>
+<p>1.主题更改为Next;</p>
+<p>2.添加了本地搜索功能;</p>
+<p>3.添加文章字数统计与阅读时间估计功能;</p>
+<p>4.添加了文章边框阴影;</p>
 <h4 id="09-25-2023-1-0更新日志：">09.25.2023  1.0更新日志：</h4>
 <p>初版上线,这时候大概长这样：</p>
 <img src="/2023/09/27/update-log/1.0.png" class title="1.0">
